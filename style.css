@@ -1,0 +1,42 @@
+/*adding in the header font here*/
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+
+
+.text-centered {
+  text-align: center;
+}
+/*Changing the color of the header and the footer*/
+.dark-background {
+  background-color: powderblue;
+  color: black;
+}
+/*Adding in some fun font for the header of the website*/
+header h1 {
+  font-family: 'Architects Daughter', cursive;
+font-size: 60px;
+
+}
+/*rounding off the edges of the picture*/
+.image-circle {
+  border-radius: 10%;
+}
+/*Changing color of the main body of the website*/
+body{ 
+  background-color: beige;
+}
+
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
+/*making the footer a bit bigger to make the website feel more full*/
+footer {
+  height: 7mm;
+ padding: 7mm;
+}
+
+a:link { color: deepskyblue; }
+a:hover { color: crimson; }
+a:visited { color: fuchsia; }
+a:active { color: fuchsia; }
