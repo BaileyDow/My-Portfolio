@@ -1,3 +1,4 @@
+
 /*adding in the header font here*/
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
@@ -40,3 +41,7 @@ a:link { color: deepskyblue; }
 a:hover { color: crimson; }
 a:visited { color: fuchsia; }
 a:active { color: fuchsia; }
+
+header {
+  text-align: center;
+}
